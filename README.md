@@ -1,5 +1,5 @@
 # 💫 About Me:
-💫    About Me: <br><br>    Hi I'm Mariama Diaw, <br>    I believe in continuous learning and enjoy exploring new technologies every day.<br><br>   🌍  I'm based in France near Paris (78)<br>   🌱  I’m learning React JS, Node JS, Express, JS <br>   👯  I'm open to freelancing projects<br>   ⚡ I like to learn something new every day and  share my knowledge<br>    ✉️  You can contact me at: yamsngl@me.com<br>   🚀 I am currently working on a school project with a team to create an e-commerce website.<br>   <br><br>
+<br>    Hi I'm Mariama Diaw, <br>    I believe in continuous learning and enjoy exploring new technologies every day.<br><br>   🌍  I'm based in France near Paris (78)<br>   🌱  I’m learning React JS, Node JS, Express, JS <br>   👯  I'm open to freelancing projects<br>   ⚡ I like to learn something new every day and  share my knowledge<br>    ✉️  You can contact me at: yamsngl@me.com<br>   🚀 I am currently working on a school project with a team to create an e-commerce website.<br>   <br><br>
 
 
 ## 🌐 Socials:
