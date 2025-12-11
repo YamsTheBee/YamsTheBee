@@ -59,8 +59,6 @@ Volunteering project: UI/UX, Figma design, React front-end, content architecture
 
 ---
 
-# 📊 GitHub Stats
-
 ## 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
