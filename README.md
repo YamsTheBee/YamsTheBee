@@ -98,5 +98,6 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 ---
 
 <p align="center">
-  <sub>✨ Designed with care. Always learning, always improving.</sub>
+  <sub>❤️‍🔥 Crafted with passion — pushing the limits every day.</sub>
 </p>
+
