@@ -60,6 +60,8 @@ Volunteering project: UI/UX, Figma design, React front-end, content architecture
 ---
 ## 📊 GitHub Stats
 
+<br>
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" 
@@ -74,12 +76,16 @@ Volunteering project: UI/UX, Figma design, React front-end, content architecture
   />
 </p>
 
+<br>
+
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical" 
     alt="Top Languages"
   />
 </p>
+
+<br>
 
 
 ---
