@@ -85,6 +85,7 @@ Complete CRUD system with form validation, UX patterns and API architecture.
   <img src="https://raw.githubusercontent.com/YamsTheBee/YamsTheBee/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
+
 ---
 
 # 🌐 Socials
