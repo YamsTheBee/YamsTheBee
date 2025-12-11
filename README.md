@@ -61,13 +61,26 @@ Volunteering project: UI/UX, Figma design, React front-end, content architecture
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamsTheBee&theme=radical" height="170"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" 
+    height="170"
+    alt="GitHub Stats"
+  />
+  
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=YamsTheBee&theme=radical" 
+    height="170"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical" 
+    alt="Top Languages"
+  />
 </p>
+
 
 ---
 
