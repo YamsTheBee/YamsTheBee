@@ -51,29 +51,22 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 
 ---
 
-# 📊 GitHub Stats
-
-<br>
+## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-git-masterorg.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" 
     height="170"
-    alt="GitHub Stats"
   />
-  
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=YamsTheBee&theme=radical" 
+    src="https://github-readme-streak-stats.herokuapp.com?user=YamsTheBee&theme=radical" 
     height="170"
-    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical" 
-    height="150"
-    alt="Top Languages"
+    src="https://github-readme-stats-git-masterorg.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical" 
   />
 </p>
 
