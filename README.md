@@ -58,14 +58,16 @@ Volunteering project: UI/UX, Figma design, React front-end, content architecture
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YamsTheBee&show_icons=true&theme=radical" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YamsTheBee&theme=radical" height="170"/>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YamsTheBee&theme=tokyonight&hide_border=true" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YamsTheBee&layout=compact&theme=radical"/>
+</p>
 
 ---
 
