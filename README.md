@@ -71,10 +71,10 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,nodejs,express,mysql,git,github,figma,postman,unity" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,mysql,git,github,vite,vercel,figma,postman,linux" />
 </p>
+--- 
 
----
 
 ## 📊 GitHub Stats
 
