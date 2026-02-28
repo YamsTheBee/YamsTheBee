@@ -11,14 +11,18 @@
 # 👋 About Me
 
 I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focused web applications.
-
-💡 I build real-world projects, including civic platforms and business-oriented applications.  
-🎯 Business-oriented developer with a strong background in sales & client relationship management.  
-✨ Passionate about continuous learning and clean architecture.  
-🤝 Open to remote opportunities, freelance missions & collaborations.
 ---
 
-# 🚀 Featured Projects
+💡 I contributed to the development of the Chūko Manga e-commerce platform (in a team of 7 developers).
+💡 I develop several concrete projects: personal portfolio, an associative platform (Simple Action Citoyenne), and educational and solidarity-based applications. 
+🚀 I build real-world projects, including civic platforms and business-oriented applications.
+🎯 Business-oriented developer with a strong background in sales & client relationship management.
+✨ Passionate about continuous learning, I combine technical expertise and clean architecture.
+🤝 Open to remote opportunities, freelance missions, and collaborations.
+
+---
+
+# 🚀 Projects
 
 Here are some of the key projects I’ve built recently:
 
@@ -51,6 +55,7 @@ Modern and professional portfolio with multilingual support, analytics, custom c
 Second-hand manga platform built during my Wild Code School bootcamp.  
 Features: cart, auth, payment flow, admin dashboard.  
 **Tech:** React, Node.js, MySQL, Stripe  
+
 
 ---
 
