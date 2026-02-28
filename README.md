@@ -9,16 +9,11 @@
 
 # 👋 About Me
 
-I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focused web applications.
+I'm **Mariama**, a Full-Stack Developer focused on building scalable, production-ready digital platforms.
 
----
+With a strong business background and hands-on project ownership, I design, build and deploy real-world applications from concept to production.
 
-💡 I contributed to the development of the Chūko Manga e-commerce platform (in a team of 7 developers).  
-💡 I develop several concrete projects: personal portfolio, an associative platform (Simple Action Citoyenne), and     educational and solidarity-based applications.   
-🚀 I build real-world projects, including civic platforms and business-oriented applications.  
-🎯 Business-oriented developer with a strong background in sales & client relationship management.  
-✨ Passionate about continuous learning, I combine technical expertise and clean architecture.  
-🤝 Open to remote opportunities, freelance missions, and collaborations.  
+Open to remote roles, freelance missions and impactful collaborations.
 
 ---
 
@@ -35,7 +30,7 @@ I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focus
 • Managed deployment environments and production configuration  
 • Translated business requirements into scalable digital solutions  
 
-Impact: Ability to lead a project from concept and design to production.
+Impact: Delivering scalable, production-ready digital platforms from idea to deployment.
 
 ---
 
@@ -109,7 +104,7 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 </p>
 
 ## 🤖 AI & Productivity Tools
-ChatGPT • Gemini • AI Chatbot Integration 
+ChatGPT • Gemini • AI Chatbot Integration • Prompt Engineering
 
 ## 📋 Workflow & Collaboration
 Agile • Scrum • Trello • Google Docs • Obsidian
