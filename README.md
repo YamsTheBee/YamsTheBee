@@ -109,7 +109,7 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 </p>
 
 ## 🤖 AI & Productivity Tools
-ChatGPT • Gemini • AI Chatbot Integration • Prompt Engineering
+ChatGPT • Gemini • AI Chatbot Integration 
 
 ## 📋 Workflow & Collaboration
 Agile • Scrum • Trello • Google Docs • Obsidian
