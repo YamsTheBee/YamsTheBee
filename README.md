@@ -3,9 +3,8 @@
 <!-- ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=64FFDA&center=true&vCenter=true&width=600&lines=Mariama+Dev+—+Full+Stack+Developer;Building+modern+and+scalable+web+apps;Learning+and+improving+every+day+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=64FFDA&center=true&vCenter=true&width=700&lines=Mariama+Diaw+—+Full-Stack+Developer;Building+impact-driven+digital+platforms;Bridging+Technology,+Business+%26+Community+🌍" />
 </p>
-
 ---
 
 # 👋 About Me
@@ -15,11 +14,40 @@ I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focus
 ---
 
 💡 I contributed to the development of the Chūko Manga e-commerce platform (in a team of 7 developers).  
-💡 I develop several concrete projects: personal portfolio, an associative platform (Simple Action Citoyenne), and educational and solidarity-based applications.   
+💡 I develop several concrete projects: personal portfolio, an associative platform (Simple Action Citoyenne), and     educational and solidarity-based applications.   
 🚀 I build real-world projects, including civic platforms and business-oriented applications.  
 🎯 Business-oriented developer with a strong background in sales & client relationship management.  
 ✨ Passionate about continuous learning, I combine technical expertise and clean architecture.  
 🤝 Open to remote opportunities, freelance missions, and collaborations.  
+
+---
+
+
+# 🌍 Leadership & Impact
+
+### 🚀 Leadership & Project Ownership
+
+• Designed complete technical architectures (Frontend / Backend separation)  
+• Created UI/UX wireframes and prototypes using Figma  
+• Worked with Agile & Scrum methodologies (task management with Trello)  
+• Modeled and structured scalable database systems  
+• Implemented critical features (authentication, payments, admin dashboards)  
+• Managed deployment environments and production configuration  
+• Translated business requirements into scalable digital solutions  
+
+Impact: Ability to lead a project from concept and design to production.
+
+---
+
+### 🤝 Business & Client Strategy Background
+
+Strong background in sales and client relationship management:
+• Customer portfolio management  
+• Quotation & follow-up processes  
+• Operational planning & coordination  
+• High client satisfaction focus  
+
+This experience strengthens my product vision, communication skills and autonomy as a developer.
 
 ---
 
@@ -70,11 +98,39 @@ Complete CRUD system with form validation, UX patterns and API architecture.
 
 # 🛠️ Tech Stack
 
+## 💻 Core Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,mysql,git,github,vite,vercel,figma,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nodejs,express,mysql,git,github,vite,vercel,linux,vscode" />
 </p>
+
+## 🎨 UI / UX & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</p>
+
+## 🤖 AI & Productivity Tools
+ChatGPT • Gemini • AI Chatbot Integration • Prompt Engineering
+
+## 📋 Workflow & Collaboration
+Agile • Scrum • Trello • Google Docs • Obsidian
+
 --- 
 
+
+# 🎓 Certifications
+
+### 🏅 Google AI Essentials — Google (2026)
+
+Certification focused on:
+- Generative AI tools integration
+- Prompt Engineering techniques
+- Responsible AI & bias mitigation
+- AI-driven productivity workflows
+- Strategic use of AI in business environments
+
+📜 Credential available upon request.
+
+---
 
 ## 📊 GitHub Stats
 
