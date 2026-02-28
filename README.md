@@ -11,6 +11,7 @@
 # 👋 About Me
 
 I'm **Mariama**, a passionate **Full-Stack Developer** dedicated to building modern, scalable and user-focused web applications.
+💡 I build real-world projects, including civic platforms and business-oriented applications.
 
 ✨ I believe in continuous learning  
 🧩 I enjoy solving real problems with clean, structured code  
@@ -22,6 +23,22 @@ I'm **Mariama**, a passionate **Full-Stack Developer** dedicated to building mod
 # 🚀 Featured Projects
 
 Here are some of the key projects I’ve built recently:
+
+---
+
+### 🔸 **Simple Action Citoyenne — Civic Impact Platform**  
+Full-stack platform developed for a Senegal-based civic association.  
+Includes donation system, admin dashboard, multilingual interface and scalable architecture.
+
+Features:
+• Secure donation flow  
+• Admin panel for content & user management  
+• Responsive UI & accessibility focus  
+• Deployment & production configuration  
+
+**Tech:** React, TypeScript, Node.js, Express, MySQL  
+🔗 *Live:* https://WWW.simpleactionCitoyenne.org 
+🔗 *Frontend Repo:* https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025  
 
 ### 🔸 **PortfolioDiaw — Full-Stack Portfolio**  
 Modern and professional portfolio with multilingual support, analytics, custom chatbot, SEO optimisation and dynamic data.  
