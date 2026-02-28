@@ -10,14 +10,12 @@
 
 # 👋 About Me
 
-I'm **Mariama**, a passionate **Full-Stack Developer** dedicated to building modern, scalable and user-focused web applications.
-💡 I build real-world projects, including civic platforms and business-oriented applications.
+I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focused web applications.
 
-✨ I believe in continuous learning  
-🧩 I enjoy solving real problems with clean, structured code  
-🤝 Open to freelance missions & collaborations  
-🌱 Currently improving React, TypeScript, Node.js & System Design
-
+💡 I build real-world projects, including civic platforms and business-oriented applications.  
+🎯 Business-oriented developer with a strong background in sales & client relationship management.  
+✨ Passionate about continuous learning and clean architecture.  
+🤝 Open to remote opportunities, freelance missions & collaborations.
 ---
 
 # 🚀 Featured Projects
@@ -28,17 +26,19 @@ Here are some of the key projects I’ve built recently:
 
 ### 🔸 **Simple Action Citoyenne — Civic Impact Platform**  
 Full-stack platform developed for a Senegal-based civic association.  
-Includes donation system, admin dashboard, multilingual interface and scalable architecture.
+Currently deployed in production (Frontend live). Backend finalisation & deployment in progress.
 
 Features:
 • Secure donation flow  
-• Admin panel for content & user management  
+• Admin dashboard for content & user management  
+• Multilingual interface  
 • Responsive UI & accessibility focus  
-• Deployment & production configuration  
+• Production deployment & environment configuration  
 
 **Tech:** React, TypeScript, Node.js, Express, MySQL  
-🔗 *Live:* https://WWW.simpleactionCitoyenne.org 
-🔗 *Frontend Repo:* https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025  
+🔗 *Live:* https://www.simpleactioncitoyenne.org  
+🔗 *Frontend Repo:* https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025   
+
 
 ### 🔸 **PortfolioDiaw — Full-Stack Portfolio**  
 Modern and professional portfolio with multilingual support, analytics, custom chatbot, SEO optimisation and dynamic data.  
