@@ -11,6 +11,7 @@
 # 👋 About Me
 
 I'm **Mariama**, a Full-Stack Developer building modern, scalable and user-focused web applications.
+
 ---
 
 💡 I contributed to the development of the Chūko Manga e-commerce platform (in a team of 7 developers).  
@@ -43,6 +44,8 @@ Features:
 🔗 *Live:* https://www.simpleactioncitoyenne.org  
 🔗 *Frontend Repo:* https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025   
 
+
+---
 
 ### 🔸 **PortfolioDiaw — Full-Stack Portfolio**  
 Modern and professional portfolio with multilingual support, analytics, custom chatbot, SEO optimisation and dynamic data.  
