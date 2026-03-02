@@ -77,11 +77,24 @@ Modern and professional portfolio with multilingual support, analytics, custom c
 
 ---
 
-### 🔸 **Chūko Manga — E-commerce App**  
-Second-hand manga platform built during my Wild Code School bootcamp.  
-Features: cart, auth, payment flow, admin dashboard.  
-**Tech:** React, Node.js, MySQL, Stripe  
+### 🔸 **Chūko Manga — Circular E-commerce Platform**
 
+Full-stack marketplace developed during my Web & Mobile Developer training at Wild Code School (2024–2025).
+
+Built in a team of 7 developers with a real client, the platform promotes circular economy within the manga community.
+
+Key features:
+• Responsive user interface  
+• Complete CRUD system for listings  
+• Admin dashboard  
+• Secure payment integration (Stripe)  
+• Authentication & role management (JWT, bcrypt)  
+
+Methodology:
+• Agile & Scrum framework  
+• Team collaboration & code reviews  
+
+**Tech:** React, TypeScript, Node.js, Express, MySQL, Stripe
 
 ---
 
