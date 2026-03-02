@@ -54,7 +54,7 @@ Here are some of the key projects I’ve built recently:
 
 ### 🔸 **Simple Action Citoyenne — Scalable Civic Platform**
 
-Full-stack digital platform developed for a organization, designed to support real-world initiatives through a secure and scalable digital infrastructure.
+Full-stack platform designed and developed to deliver a scalable, secure and production-ready digital infrastructure.
 
 Currently deployed in production (Frontend live). Backend deployment and payment integrations are in progress.
 
