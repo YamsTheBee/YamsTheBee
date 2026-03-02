@@ -52,20 +52,30 @@ Here are some of the key projects I’ve built recently:
 
 ---
 
-### 🔸 **Simple Action Citoyenne — Civic Impact Platform**  
-Full-stack platform developed for a Senegal-based civic association.  
-Currently deployed in production (Frontend live). Backend finalisation & deployment in progress.
+### 🔸 **Simple Action Citoyenne — Scalable Civic Platform**
 
-Features:
-• Secure donation flow  
+Full-stack digital platform developed for a organization, designed to support real-world initiatives through a secure and scalable digital infrastructure.
+
+Currently deployed in production (Frontend live). Backend deployment and payment integrations are in progress.
+
+Key Features:
+• Fully responsive and accessible UI (mobile-first approach)  
 • Admin dashboard for content & user management  
 • Multilingual interface  
-• Responsive UI & accessibility focus  
-• Production deployment & environment configuration  
+• AI-powered chatbot integration  
+• Production-ready environment configuration  
+
+In Progress:
+• Secure donation flow  
+• Backend production deployment (Node.js / Express)  
+• Stripe payment integration  
+• Mobile Money integration (local payment solution)  
+• API security reinforcement & performance optimization  
 
 **Tech:** React, TypeScript, Node.js, Express, MySQL  
-🔗 *Live:* https://www.simpleactioncitoyenne.org  
-🔗 *Frontend Repo:* https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025   
+
+🔗 Live: https://www.simpleactioncitoyenne.org  
+🔗 Frontend Repo: https://github.com/YamsTheBee/Simpl-Action-Citoyenne2025
 
 
 ---
