@@ -52,6 +52,30 @@ Here are some of the key projects I’ve built recently:
 
 ---
 
+### 🔸 **NoPanik Shop — Restaurant Website Template**
+
+Modern and responsive restaurant website concept designed for a Senegalese restaurant and grocery store located in Paris.
+
+The project focuses on delivering a visually engaging and mobile-friendly experience that highlights the restaurant's identity, menu and lifestyle atmosphere.
+
+Key features:
+• Modern landing page with strong visual identity  
+• Restaurant presentation and menu section  
+• African grocery store showcase  
+• Lifestyle section including barbershop partnership  
+• Google Maps integration  
+• Fully responsive design  
+
+Purpose:
+• Demonstrate front-end architecture with reusable components  
+• Serve as a reusable template for restaurant websites  
+• Designed with performance and scalability in mind  
+
+**Tech:** React, TypeScript, Vite, TailwindCSS  
+
+🔗 Repo: https://github.com/YamsTheBee/restaurant-nopanikshop-website
+---
+
 ### 🔸 **Simple Action Citoyenne — Scalable Civic Platform**
 
 Full-stack platform designed and developed to deliver a scalable, secure and production-ready digital infrastructure.
